@@ -1,6 +1,6 @@
 # DAP-Project
 Database and Analytics Programming Project
 
-We have placed our individual code files as we as combined group file in folder named "Code"
-Three datasets are tken by usig API and one dataset is placed in folder "Data".
+We have placed our individual code files as we as combined group files under folder "Code"
+Three datasets are taken by using API and one dataset is in JSON format and placed under folder "Data".
 Presentation file is also uploaded in the root location.
